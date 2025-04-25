@@ -2,4 +2,4 @@
 
 ## Håndlagde Kommandoer - En Quality of Life Update
 
-runcompc - run and compile the main.c file in the ~/c_gui directory
+runcompc - compiler og kjør filen main.c i mappen ~/c_gui 
